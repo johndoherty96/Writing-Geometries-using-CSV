@@ -42,7 +42,8 @@ Observe Our Results: <br/>
 <img src="https://imgur.com/8msKp8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+<h2>Citations and Acknowledgment:</h2>
+- <b>All data for this project was provided by Penn State University</b>
 
 <!--
  ```diff
